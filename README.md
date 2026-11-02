@@ -2,6 +2,8 @@
 
 [Read in English](README.en.md)
 
+English version: [README.en.md](README.en.md) (archivos en `en/`).
+
 Desde la 2.1.277 Claude Code lee `AGENTS.md` cuando el proyecto no tiene `CLAUDE.md`. Pero si hay un `CLAUDE.md` o un `CLAUDE.local.md` en tu carpeta o por encima, lo ignora sin avisar. Este repo trae la configuración más robusta para usar un solo archivo con todas tus IAs (Claude Code, Codex, Cursor…) y una prueba para comprobarlo en tu equipo.
 
 La referencia completa (qué lee en cada caso, los cuatro valores de Project instructions, subcarpetas, migrar desde Codex o Cursor) está en:
